@@ -8,3 +8,6 @@ I have to design a simple responsive web page that is in the design using Html a
 Upload your assignment at Codepen.io and share the link on or before 31/03/22 (Thursday) EOD
 
 Due to codepen.in for accesing project upload paid version I used Github and below I will attach the design of the short assignment. Thanks!
+
+
+![This is an image](https://github.com/Gemechu-Taye/Goinfluencer-Sign-In-Page/blob/main/Sign%20In%20(1).png)
