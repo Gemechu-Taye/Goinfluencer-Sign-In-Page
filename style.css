@@ -175,6 +175,8 @@ h5 {
     width: 100%;
     background-repeat: no-repeat;
     background-position: center top;
+    overflow:hidden;
+    position:relative;
 }
 
 .fxt-template-layout34 .fxt-column-wrap {
@@ -674,4 +676,13 @@ h5 {
 
 .fxt-template-layout34 ul.fxt-socials li.fxt-facebook a {
     color: #3b5998;
+}
+
+#body {
+    overflow:hidden;
+    position:relative;
+    margin-top:-4em;
+    /* negative value of footer height */
+    height:4em;
+    clear:both;
 }
